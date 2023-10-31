@@ -1,7 +1,7 @@
  /* *{border: 1px solid red !important;}*/
  *{font-family: Helvetica;}
 header{
-    background-image: url("./Dasmoto Images/pattern.jpeg");
+    background-image: url("./pattern.jpeg");
     height: auto;
 }
 header h1{
