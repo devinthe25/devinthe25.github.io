@@ -1,0 +1,33 @@
+ /* *{border: 1px solid red !important;}*/
+ *{font-family: Helvetica;}
+header{
+    background-image: url("./Dasmoto Images/pattern.jpeg");
+    height: auto;
+}
+header h1{
+    color: khaki;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+}
+h2{
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+/*#brushes{
+    background-color: springgreen;
+}*/
+#frames{
+    background-color: springgreen;
+}
+#paint{
+    background-color: springgreen;
+}
+.price-qty{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
